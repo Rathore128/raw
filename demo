@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head><title>raw.com</title>
+<style>
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: black;
+}
+li a {
+display: block;
+color: white;
+padding: 10px 100px;
+text-decoration: none;
+}
+li {
+float: left;
+}
+li a:hover {
+background-color: red;
+}
+</style>
+
+</head>
+
+<body>
+<ul><font size=4>
+<li> <a class="active" href="d.html"> file </a> </li>
+<li> <a href=""> edit </a> </li>
+<li> <a href=""> search </a> </li>
+<li> <a href=""> help </a> </li>
+<li> <input type="password" name="search" size="10"></li></font>
+</ul>
+<table border=4>
+<tr><td rowspan="2"><dl>
+<dt><b>keyboard</b><dd>A computer keyboard is one of the primary input devices used with a computer. Similar to an electric typewriter, a keyboard is composed of buttons that create letters, numbers, and symbols, as well as perform other functions. The following sections provide more in-depth information and answers to some of the more frequently asked questions about the keyboard.
+<dt><b>mouse</b> <dd>A computer mouse is a handheld hardware input device that controls a cursor in a GUI (graphical user interface) and can move and select text, icons, files, and folders on your computer.
+For desktop computers, the mouse is placed on a flat surface such as a mouse pad or a desk in front of your computer. The picture is an example of a desktop computer mouse with two buttons and a wheel.
+<dt><b>printer</b> <dd>A printer is an external hardware output device that takes the electronic data stored on a computer or other device and generates a hard copy of it. For example, if you created a report on your computer, you could print several copies to hand out at a staff meeting. Printers are one of the most popular computer peripherals and are commonly used to print text and photos. The picture is an example of an inkjet computer printer, the Lexmark Z605
+<dt><b>speaker</b> <dd>A computer speaker is an output hardware device that connects to a computer to generate sound. The signal used to produce the sound that comes from a computer speaker is created by the computer's sound card. The picture shows the Harman Kardon Soundsticks III 2.1 Channel Multimedia Speaker System.
+</dl></td>
+<td><img src="img.jpeg" alt="img not found"  width=850 height=280></td>
+</tr>
+<tr>
+<td><table  width=850 height=280>
+<tr><th colspan=2><font size=8><b>hi this is beta ver of raw.com</b></font></th></tr>
+<tr><td><img src="img2.jpeg" alt="img not found" height=200 width=400></td>
+<td valign=top><font size=4>this is the project of bca(A)1year html and css testing file for students thanks.</font></td></tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
